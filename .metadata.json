@@ -1,0 +1,10 @@
+[
+  {
+    "package": "finnts",
+    "oncran": true
+  },
+  {
+    "package": "wpa",
+    "oncran": true
+  }
+]
