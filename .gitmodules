@@ -8,6 +8,11 @@
 	url = https://github.com/microsoft/finnts
 	shallow = true
 	registered = true
+[submodule "vivainsights"]
+	path = vivainsights
+	url = https://github.com/microsoft/vivainsights
+	shallow = true
+	registered = true
 [submodule "wpa"]
 	path = wpa
 	url = https://github.com/microsoft/wpa
