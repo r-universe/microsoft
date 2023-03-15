@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "finnts"]
+	path = finnts
+	url = https://github.com/microsoft/finnts
+	shallow = true
+	registered = true
 [submodule "vivainsights"]
 	path = vivainsights
 	url = https://github.com/microsoft/vivainsights
@@ -11,10 +16,5 @@
 [submodule "wpa"]
 	path = wpa
 	url = https://github.com/microsoft/wpa
-	shallow = true
-	registered = true
-[submodule "finnts"]
-	path = finnts
-	url = https://github.com/microsoft/finnts
 	shallow = true
 	registered = true
