@@ -9,6 +9,9 @@
 	path = nixtlar
 	url = https://github.com/Nixtla/nixtlar
 	registered = false
+[submodule "vivaglint"]
+	path = vivaglint
+	url = https://github.com/microsoft/vivaglint
 [submodule "vivainsights"]
 	path = vivainsights
 	url = https://github.com/microsoft/vivainsights
