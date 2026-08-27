@@ -5,10 +5,6 @@
 [submodule "finnts"]
 	path = finnts
 	url = https://github.com/microsoft/finnts
-[submodule "nixtlar"]
-	path = nixtlar
-	url = https://github.com/Nixtla/nixtlar
-	registered = false
 [submodule "vivaglint"]
 	path = vivaglint
 	url = https://github.com/microsoft/vivaglint
